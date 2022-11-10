@@ -459,3 +459,111 @@ Caused by: java.net.SocketException: Connection reset
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 13:38:34.427
 !MESSAGE executing callback sts4.classpath.HPoJUrdG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:12:46.613
+!MESSAGE Preparing classpath changed notification JUnite5Project
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:12:46.613
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:12:46.614
+!MESSAGE classpath=16 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:12:46.614
+!MESSAGE buffering callback sts4.classpath.HPoJUrdG JUnite5Project false 16
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:12:46.615
+!MESSAGE executing callback sts4.classpath.HPoJUrdG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:12:46.618
+!MESSAGE executing callback sts4.classpath.HPoJUrdG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:13:52.369
+!MESSAGE Preparing classpath changed notification JUnite5Project
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:13:52.369
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:13:52.370
+!MESSAGE classpath=16 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:13:52.371
+!MESSAGE buffering callback sts4.classpath.HPoJUrdG JUnite5Project false 16
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:13:52.371
+!MESSAGE executing callback sts4.classpath.HPoJUrdG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:13:52.380
+!MESSAGE executing callback sts4.classpath.HPoJUrdG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:27.468
+!MESSAGE Preparing classpath changed notification JUnite5Project
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:27.469
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:27.470
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:27.470
+!MESSAGE buffering callback sts4.classpath.HPoJUrdG JUnite5Project false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:27.470
+!MESSAGE executing callback sts4.classpath.HPoJUrdG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:27.474
+!MESSAGE executing callback sts4.classpath.HPoJUrdG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:57.295
+!MESSAGE Preparing classpath changed notification JUnite5Project
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:57.296
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:57.296
+!MESSAGE classpath=16 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:57.297
+!MESSAGE buffering callback sts4.classpath.HPoJUrdG JUnite5Project false 16
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:57.297
+!MESSAGE executing callback sts4.classpath.HPoJUrdG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:14:57.313
+!MESSAGE executing callback sts4.classpath.HPoJUrdG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:40.259
+!MESSAGE Preparing classpath changed notification JUnite5Project
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:40.259
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:40.259
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:40.259
+!MESSAGE buffering callback sts4.classpath.HPoJUrdG JUnite5Project false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:40.260
+!MESSAGE executing callback sts4.classpath.HPoJUrdG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:40.263
+!MESSAGE executing callback sts4.classpath.HPoJUrdG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:52.795
+!MESSAGE Preparing classpath changed notification JUnite5Project
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:52.796
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:52.798
+!MESSAGE classpath=16 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:52.799
+!MESSAGE buffering callback sts4.classpath.HPoJUrdG JUnite5Project false 16
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:52.800
+!MESSAGE executing callback sts4.classpath.HPoJUrdG 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-10 14:23:52.806
+!MESSAGE executing callback sts4.classpath.HPoJUrdG SUCCESS [done]
