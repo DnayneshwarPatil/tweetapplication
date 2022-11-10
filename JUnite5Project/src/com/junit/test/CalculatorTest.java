@@ -1,9 +1,11 @@
-package com.junit.demo;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
+import com.junit.demo.Calculator;
 
 class CalculatorTest {
 
